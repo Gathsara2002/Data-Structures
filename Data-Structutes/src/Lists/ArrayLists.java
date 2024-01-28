@@ -15,10 +15,10 @@ public class ArrayLists {
     public static void main(String[] args) {
 
         //me array list ekata string,integer,boolen okkoma danna puluvn
-        List list=new ArrayList();
+        List list = new ArrayList();
 
         //mekata danna puluvn string vitarai
-        List<String> list1=new ArrayList<>();
+        List<String> list1 = new ArrayList<>();
 
         list1.add("red");
         list1.add("yellow");

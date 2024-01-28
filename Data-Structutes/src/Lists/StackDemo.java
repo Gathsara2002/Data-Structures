@@ -14,7 +14,7 @@ public class StackDemo {
     public static void main(String[] args) {
 
         //initializing
-        Stack<Integer> stack=new Stack<>();
+        Stack<Integer> stack = new Stack<>();
 
         //put values
         stack.push(1);
